@@ -1,0 +1,27 @@
+PERSON
+firstName:Jaakko S.
+lastName:Hakulinen
+birthTown:Joensuu
+birthCountry:Finland
+maritalStatus:COHABITING
+birthYear:1974
+birthMonth:2
+birthDay:16
+PERSON
+firstName:Random
+lastName:Person
+birthTown:Townsville
+birthCountry:USA
+maritalStatus:SINGLE
+birthYear:1984
+birthMonth:7
+birthDay:6
+PERSON
+firstName:Göran
+lastName:Pärvik
+birthTown:Ålesund
+birthCountry:Sweden
+maritalStatus:MARRIED_REGISTERED
+birthYear:1956
+birthMonth:1
+birthDay:26
